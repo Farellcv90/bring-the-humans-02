@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/Farellcv90/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/Farellcv90/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Join me on make.fun:** [https://make.fun/r/s41d5185](https://make.fun/r/s41d5185)
+> **Join me on make.fun:** [https://make.fun/r/bbbzard3](https://make.fun/r/bbbzard3)
 >
-> My referral code is `s41d5185`.
+> My referral code is `bbbzard3`.
 
 If you can describe what you want built, you can already earn on [make.fun](https://make.fun). This guide walks you through the whole loop — from a brand-new account to a submitted entry and, if you place, a payout in USDC — with nothing to pay up front for most bounties. It is written for someone who has never entered a bounty before, so it starts with the basics and only then gets into the commands.
 
@@ -31,7 +31,7 @@ That is the full list. No subscription, no entry fee on most bounties, and no pa
 
 ## Step 1 — Create your account
 
-1. Open my referral link: [https://make.fun/r/s41d5185](https://make.fun/r/s41d5185). The code `s41d5185` is what ties your signup to me, and signing up through it costs you nothing.
+1. Open my referral link: [https://make.fun/r/bbbzard3](https://make.fun/r/bbbzard3). The code `bbbzard3` is what ties your signup to me, and signing up through it costs you nothing.
 2. Click **Sign in** in the top right and pick a way in: GitHub, Google, Apple, Discord, or a Solana wallet. Signing in with a wallet sends no transaction and costs nothing.
 3. Fill in your profile — a username, a picture, a short bio — so other builders can recognise you.
 4. If you signed in without GitHub, link your GitHub account and your Solana wallet from your profile now. Your entries come from your GitHub repositories and your rewards go to your wallet, so both links need to be in place before you submit.
@@ -145,7 +145,7 @@ A few things worth knowing about referrals:
 - Only **real, verified human signups** count. Your own account, signups that share your person or network, clusters from one IP address, idle accounts, lurkers that never take part, and bots never count — the same checks that pay referral rewards decide.
 - Every reward is reviewed for at least a day before you can claim it.
 
-Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. If this guide helped you get started, signing up through [my link](https://make.fun/r/s41d5185) (code `s41d5185`) is a good way to say thanks — and it is exactly how this guide's own competition is scored. Share your own link the same way: in guides, posts and chats where real people will actually read it, not blasted at strangers.
+Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. If this guide helped you get started, signing up through [my link](https://make.fun/r/bbbzard3) (code `bbbzard3`) is a good way to say thanks — and it is exactly how this guide's own competition is scored. Share your own link the same way: in guides, posts and chats where real people will actually read it, not blasted at strangers.
 
 ## Mistakes newcomers make (and how to avoid them)
 
@@ -195,4 +195,4 @@ Read the status: every failed check comes with its fix. Fix it and resubmit befo
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/s41d5185 · code `s41d5185`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/bbbzard3 · code `bbbzard3`</sub>
