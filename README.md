@@ -1,9 +1,8 @@
 # Getting Started with make.fun — A Newcomer's Guide
 
-[![Competition](https://img.shields.io/badge/competition-bring--the--humans--02-blue)](https://make.fun/bounty/bring-the-humans-02)
-[![Owner](https://img.shields.io/badge/owner-Farellcv90-green)](https://github.com/Farellcv90)
-[![Rank](https://img.shields.io/badge/rank-check%20the%20leaderboard-lightgrey)](https://make.fun/bounty/bring-the-humans-02)
-[![Reward](https://img.shields.io/badge/reward-bounty-orange)](https://make.fun/bounty/bring-the-humans-02)
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/Farellcv90/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/Farellcv90/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 This guide is for anyone who has just heard about make.fun and wants a clear picture of what it is, how it works, and how to take your first steps without wasting time or making mistakes you could have avoided.
 
